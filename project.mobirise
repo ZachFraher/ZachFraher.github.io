@@ -229,7 +229,7 @@
           "price2": "400",
           "period2": "",
           "list2": "<ul><li><b>Custom</b> Code</li><li><b>Html, Css and More</b></li><li><b>10+ </b>Features</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://github.com/ZachFraher/Template2.git\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://github.com/ZachFraher/test.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
           "title3": "PREMIUM",
           "currency3": "$",
           "price3": "600",
