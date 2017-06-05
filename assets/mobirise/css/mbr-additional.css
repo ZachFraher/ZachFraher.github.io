@@ -21,6 +21,12 @@
 #form1-3 .mbr-header__text {
   color: #ffffff;
 }
+#msg-box1-8 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-8 .mbr-article {
+  color: #fff;
+}
 #pricing-table1-4 H3 {
   color: #ffffff;
 }
