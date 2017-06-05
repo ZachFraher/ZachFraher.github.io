@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4,
+    "uniqCompNum": 5,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128-1.png",
     "noImageResize": ""
@@ -189,6 +189,70 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "default",
+            "showButtons": true,
+            "secondType": "blue",
+            "thirdType": "favorite",
+            "fourthType": "hidden",
+            "fifthType": "hidden"
+          },
+          "title1": "STANDARD",
+          "currency1": "$",
+          "price1": "150",
+          "period1": "per month",
+          "list1": "<ul><li><b>Custom</b> Code</li><li><b>Html and Css</b></li><li><b>5+ </b>Features</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title2": "BUSINESS",
+          "currency2": "$",
+          "price2": "300",
+          "period2": "per month",
+          "list2": "<ul><li><b>Custom</b> Code</li><li><b>Html, Css and More</b></li><li><b>10+ </b>Features</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "title3": "PREMIUM",
+          "currency3": "$",
+          "price3": "500",
+          "period3": "per month",
+          "list3": "<ul><li><b>Custom</b> Code and Pluggins</li><li><b>10+</b> Features</li><li><b>Website Hosted By Us</b></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"#top\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Ex: This Website + More</a>",
+          "title4": "ULTIMATE",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "per month",
+          "list4": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>1 TB</b> Bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
