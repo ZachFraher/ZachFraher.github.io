@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Carlsbad Co",
+    "name": "Invado",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -11,7 +11,8 @@
     "uniqCompNum": 9,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128-1.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -232,6 +233,11 @@
             "Theme"
           ],
           "_name": "pricing-table1",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "pricing-table1-4",
           "_params": {
             "paddingTop": 3,
@@ -257,22 +263,22 @@
           },
           "title1": "STANDARD",
           "currency1": "$",
-          "price1": "150",
+          "price1": "300",
           "period1": "",
           "list1": "<ul><li><b>Custom</b> Code</li><li><b>Html and Css</b></li><li><b>5+ </b>Features</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"template.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
           "title2": "BUSINESS",
           "currency2": "$",
-          "price2": "400",
+          "price2": "500",
           "period2": "",
           "list2": "<ul><li><b>Custom</b> Code</li><li><b>Html, Css and More</b></li><li><b>10+ </b>Features</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"test.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
           "title3": "PREMIUM",
           "currency3": "$",
           "price3": "600",
-          "period3": "+10 per month",
+          "period3": "+5 per month",
           "list3": "<ul><li><b>Custom</b> Code and Pluggins</li><li><b>10+</b> Features</li><li><b>Website Hosted By Us</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"#top\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Ex: This Website + More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Platinum/index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
           "title4": "ULTIMATE",
           "currency4": "$",
           "price4": "0",
@@ -284,12 +290,7 @@
           "price5": "0",
           "period5": "per month",
           "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
         },
         {
           "_tags": [
