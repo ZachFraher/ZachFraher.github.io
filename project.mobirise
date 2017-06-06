@@ -278,7 +278,7 @@
           "price3": "600",
           "period3": "+5 per month",
           "list3": "<ul><li><b>Custom</b> Code and Pluggins</li><li><b>10+</b> Features</li><li><b>Website Hosted By Us</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"Platinum/index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"platinum.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
           "title4": "ULTIMATE",
           "currency4": "$",
           "price4": "0",
